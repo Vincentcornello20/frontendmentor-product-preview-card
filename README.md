@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-using-css-and-html-JUMwYCltnM)
 - Live Site URL: (https://vincentcornello20.github.io/frontendmentor-product-preview-card/)
 
 ## My process
